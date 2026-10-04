@@ -30,7 +30,7 @@ CollegeUNIVERSE is a college fest website designed to provide students with info
 ```text
 CollegeUNIVERSE/
 │
-├── uni.html
+├── index.html
 ├── uni.css
 ├── script.js
 │
